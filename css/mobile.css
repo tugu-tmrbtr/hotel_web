@@ -1,0 +1,45 @@
+/* Showcase styles */
+#showcase {
+  height: 100vh;
+}
+#showcase h1 {
+  font-size: 2rem;
+  line-height: 1.4;
+}
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+/* Information Section */
+#hotel-info .info-img {
+  display: none;
+}
+#hotel-info .info-text {
+  float: none;
+  width: 100%;
+}
+
+/* Features */
+.box {
+  float: none;
+  width: 100%;
+}
+.l-heading {
+  text-align: center;
+}
+
+/* About info */
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+#about-info .info-right img {
+  margin-top: 30px;
+}
+
+/* Contact form */
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
